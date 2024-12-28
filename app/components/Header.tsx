@@ -11,7 +11,7 @@ export default function Header() {
         >
           bwmengineer428@gmail.com
         </a>{' '}
-        | 845-332-9684
+        | https://github.com/Bradbuythedip
       </div>
     </header>
   )
